@@ -1,0 +1,30 @@
+# C/C++ compiled object files
+*.o
+*.out
+*.obj
+*.exe
+
+# Editor and IDE files
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Backup and temp files
+*.log
+*.tmp
+*.bak
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build and bin folders (if any)
+build/
+bin/
+
+# Input/output files
+*.txt
+output/
+jobs_output/
